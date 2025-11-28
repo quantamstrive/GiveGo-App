@@ -1,6 +1,6 @@
-# HelpMap+
+# GiveGo
 
-**HelpMap+** is a full-stack volunteering platform that connects volunteers with NGOs. It features a sleek pixel/neon retro style. This repo contains the app structure, flows, and design specs, ready to integrate into any AI coding model or development workflow.
+**GiveGo** is a full-stack volunteering platform that connects volunteers with NGOs. It features a sleek pixel/neon retro style. This repo contains the app structure, flows, and design specs, ready to integrate into any AI coding model or development workflow.
 
 ---
 
@@ -26,7 +26,7 @@
 
 ## Volunteer Flow
 
-* **Registration Form:** Name, Phone/WhatsApp, Gmail, DOB, Education/Job
+* **Registration Form:** Name, Phone/WhatsApp, Gmail
 * **Dashboard Tabs:** Events | My Profile | Chats
 * **Events Page:** Cards with title, description, location, time, age requirement, skills gained, buttons (Apply / Donate)
 * **Apply Flow:** Optional NGO questions, status “Pending Review,” NGO Accept/Reject
