@@ -1,0 +1,7 @@
+{
+  "name": "GiveGo",
+  "description": "A retro-futuristic pixel-art volunteering platform connecting volunteers with NGOs.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
